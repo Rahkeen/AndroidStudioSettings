@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="viewc" value="    constructor(context: android.content.Context) : super(context)&#10;    constructor(context: android.content.Context, attrs: android.util.AttributeSet?) : super(context, attrs)&#10;    constructor(context: android.content.Context, attrs: android.util.AttributeSet?, defStyleAttr: Int) : super(context, attrs, defStyleAttr)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
