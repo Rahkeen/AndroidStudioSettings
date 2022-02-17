@@ -8,6 +8,7 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
