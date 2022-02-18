@@ -2,8 +2,11 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
   <action id="Vcs.UpdateProject" />
-  <action id="ViewObsoleteNavBarAction">
+  <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
   <action id="ViewStatusBar">
