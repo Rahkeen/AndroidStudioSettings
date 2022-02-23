@@ -10,11 +10,18 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Encoding" value="false" />
+        <entry key="IdeaVim-Icon" value="false" />
+        <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
         <entry key="Notifications" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="SendFeedbackPanel" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="git" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="settingsEntryPointWidget" value="false" />
       </map>
     </option>
   </component>
