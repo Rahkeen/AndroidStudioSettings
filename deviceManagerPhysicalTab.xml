@@ -1,0 +1,28 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-19041FDEE004SV-qhOdis._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 6 Pro" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="19041FDEE004SV" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6 Pro" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
