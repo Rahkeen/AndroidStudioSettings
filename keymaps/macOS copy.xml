@@ -9,6 +9,10 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
