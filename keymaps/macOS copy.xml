@@ -2,6 +2,9 @@
   <action id="ActivateAndroidEmulatorToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta alt e" />
   </action>
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
