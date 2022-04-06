@@ -2,12 +2,12 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:com.pinterest.dev " />
         <option value="package:com.pinterest.dev level:error" />
         <option value="package:com.pinterest.dev" />
         <option value="package:com.pinterest.dev creation_inspiration" />
         <option value="package:com.pinterest.dev setAuth" />
         <option value="package:com.pinterest.dev level:ERROR " />
-        <option value="package:com.pinterest.dev " />
       </list>
     </option>
   </component>
