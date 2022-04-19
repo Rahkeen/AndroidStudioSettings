@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error" />
         <option value="package:com.pinterest.dev  level:error" />
         <option value="package:com.pinterest.dev " />
         <option value="package:com.pinterest.dev level:error" />
