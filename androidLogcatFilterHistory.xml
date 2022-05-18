@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.pinterest.dev Creation inspo" />
+    <option name="mostRecentlyUsed" value="package:com.pinterest.dev C" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.pinterest.dev C" />
         <option value="package:com.pinterest.dev Creation inspo" />
         <option value="package:com.pinterest.dev api" />
         <option value="package:com.pinterest.dev experienc" />
