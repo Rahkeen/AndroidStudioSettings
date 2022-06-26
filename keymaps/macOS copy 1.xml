@@ -1,0 +1,20 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateAndroidEmulatorToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt e" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="ctrl meta alt m" />
+  </action>
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
+</keymap>
