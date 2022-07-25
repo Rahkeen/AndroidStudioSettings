@@ -3,7 +3,7 @@
     <property name="created">2022-07-25T08:43:30</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.1.1.8</property>
-    <property name="modified">2022-07-25T08:43:33</property>
+    <property name="modified">2022-07-25T08:45:07</property>
     <property name="originalScheme">TokyoNightDark</property>
   </metaInfo>
   <colors>
@@ -59,6 +59,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="c0caf5" />
     <option name="MODIFIED_LINES_COLOR" value="e0af68" />
     <option name="NOTIFICATION_BACKGROUND" value="2c2e40" />
+    <option name="PRESENTATION_ASSISTANT_HINT_BACKGROUND" value="3f4665" />
     <option name="QUESTION_HINT" value="414868" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="2c2e40" />
@@ -600,6 +601,9 @@
         <option name="FOREGROUND" value="2ac3de" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f7768e" />
@@ -777,6 +781,9 @@
         <option name="FOREGROUND" value="9d7cd8" />
         <option name="FONT_TYPE" value="3" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
@@ -959,9 +966,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="42465d" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
