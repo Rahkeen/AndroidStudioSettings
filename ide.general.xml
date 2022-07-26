@@ -22,7 +22,9 @@
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="git" value="false" />
+        <entry key="mtProjectFactory" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="mtThemeFactory" value="false" />
         <entry key="settingsEntryPointWidget" value="false" />
       </map>
     </option>
