@@ -3,7 +3,7 @@
     <property name="created">2022-07-25T08:43:30</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.1.1.8</property>
-    <property name="modified">2022-07-27T09:09:32</property>
+    <property name="modified">2022-07-28T12:04:21</property>
     <property name="originalScheme">TokyoNightDark</property>
   </metaInfo>
   <colors>
@@ -255,7 +255,6 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="EFFECT_COLOR" value="a9b1d6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
