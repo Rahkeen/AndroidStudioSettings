@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt d" />
     <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
   </action>
+  <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
