@@ -19,6 +19,12 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt d" />
     <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
