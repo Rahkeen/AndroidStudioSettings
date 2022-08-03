@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Phone" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Phone" />
+        <option value="package:mine number" />
+        <option value="package:mine tele" />
         <option value="package:mine" />
         <option value="package:mine api.pinteres" />
         <option value="package:mine auth" />
@@ -19,9 +23,6 @@
         <option value="package:com.pinterest.dev level:error " />
         <option value="package:mine " />
         <option value="package:mine FidgetCard" />
-        <option value="package:mine fidgetcard" />
-        <option value="package:mine level:error" />
-        <option value="package:com.pinterest.dev  level:error" />
       </list>
     </option>
   </component>
