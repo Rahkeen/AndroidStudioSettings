@@ -84,6 +84,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.sourcegraph.jetbrains">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.suusan2go.kotlin-fill-class">
           <value>
             <PluginData>
