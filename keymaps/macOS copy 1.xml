@@ -5,6 +5,9 @@
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
+  <action id="ActivateLayoutInspectorToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt i" />
+  </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
