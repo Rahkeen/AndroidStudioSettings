@@ -31,6 +31,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta alt up" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl meta alt f" />
+  </action>
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
