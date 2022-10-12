@@ -33,6 +33,7 @@
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl meta alt f" />
+    <keyboard-shortcut first-keystroke="meta f12" />
   </action>
   <action id="IntentionActionAsAction_org.jetbrains.kotlin.idea.intentions.ChopArgumentListIntention">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
