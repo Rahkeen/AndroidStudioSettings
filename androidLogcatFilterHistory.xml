@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Phone" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine Phone" />
         <option value="package:mine number" />
         <option value="package:mine tele" />
@@ -21,7 +21,6 @@
         <option value="package:com.pinterest.dev api" />
         <option value="package:com.pinterest.dev experienc" />
         <option value="package:com.pinterest.dev level:error " />
-        <option value="package:mine " />
         <option value="package:mine FidgetCard" />
       </list>
     </option>
