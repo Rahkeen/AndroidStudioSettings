@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WorkMan" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine WorkMan" />
         <option value="package:mine " />
         <option value="package:mine Phone" />
         <option value="package:mine number" />
         <option value="package:mine tele" />
-        <option value="package:mine" />
         <option value="package:mine api.pinteres" />
         <option value="package:mine auth" />
         <option value="package:mine api.pinterest" />
