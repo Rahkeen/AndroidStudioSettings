@@ -7,6 +7,6 @@
     <option name="isUseHollowFolders" value="false" />
     <option name="arrowsStyle" value="Arrows" />
     <option name="accentColor" value="ff6666" />
-    <option name="hasBigIcons" value="true" />
+    <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
