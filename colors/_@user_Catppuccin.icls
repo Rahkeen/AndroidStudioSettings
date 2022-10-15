@@ -3,7 +3,7 @@
     <property name="created">2022-09-27T09:02:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.1.1.10</property>
-    <property name="modified">2022-10-06T14:09:44</property>
+    <property name="modified">2022-10-14T21:19:45</property>
     <property name="originalScheme">Catppuccin</property>
   </metaInfo>
   <colors>
@@ -666,7 +666,7 @@
       <value>
         <option name="FOREGROUND" value="f5e0dc" />
         <option name="EFFECT_COLOR" value="f5e0dc" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
