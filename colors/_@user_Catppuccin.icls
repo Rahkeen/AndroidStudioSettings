@@ -3,7 +3,7 @@
     <property name="created">2022-09-27T09:02:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2022.1.1.10</property>
-    <property name="modified">2022-10-15T00:13:27</property>
+    <property name="modified">2022-10-20T15:53:04</property>
     <property name="originalScheme">Catppuccin</property>
   </metaInfo>
   <colors>
@@ -33,29 +33,29 @@
     <option name="DOC_COMMENT_LINK" value="96cdfb" />
     <option name="ERROR_HINT" value="832133" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="85e89d" />
+    <option name="FILESTATUS_COPIED" value="95dcaa" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_MERGED" value="b392f0" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ff8e77" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b9adc0" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ffb78a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ffb78a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ffb78a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="95dcaa" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="e9a323" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="5dcc86" />
+    <option name="FILESTATUS_MERGED" value="dfb7fb" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="fede5d" />
+    <option name="FILESTATUS_RENAMED" value="95dcaa" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="ffea7f" />
-    <option name="FILESTATUS_changelistConflict" value="f97583" />
-    <option name="FILESTATUS_modifiedOutside" value="b392f0" />
+    <option name="FILESTATUS_addedOutside" value="95dcaa" />
+    <option name="FILESTATUS_changelistConflict" value="ffb4a4" />
+    <option name="FILESTATUS_modifiedOutside" value="b0c9ff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="1e1e2e" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f28fad" />

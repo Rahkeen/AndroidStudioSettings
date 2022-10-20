@@ -1,0 +1,13 @@
+<application>
+  <component name="AutoDarkMode">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="groupIdentifier" value="__root__group__" />
+          <option name="name" value="__settings__version__" />
+          <option name="value" value="1.1" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+</application>
