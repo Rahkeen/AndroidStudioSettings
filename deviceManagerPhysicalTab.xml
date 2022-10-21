@@ -10,7 +10,7 @@
         </key>
         <name value="Google Pixel 6 Pro" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -20,8 +20,8 @@
           </Key>
         </key>
         <name value="Google Pixel 6 Pro" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
