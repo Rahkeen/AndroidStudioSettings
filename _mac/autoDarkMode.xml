@@ -3,6 +3,61 @@
     <option name="entries">
       <list>
         <Entry>
+          <option name="groupIdentifier" value="general_settings:IDE Theme" />
+          <option name="name" value="changeIdeTheme" />
+          <option name="value" value="true" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
+          <option name="name" value="lightTheme" />
+          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf IntelliJ Light" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
+          <option name="name" value="darkTheme" />
+          <option name="value" value="com.intellij.ide.ui.laf.darcula.DarculaLaf Darcula" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
+          <option name="name" value="highContrastTheme" />
+          <option name="value" value="com.intellij.ide.ui.laf.darcula.DarculaLaf High contrast" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:Editor Theme" />
+          <option name="name" value="changeEditorTheme" />
+          <option name="value" value="true" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:Editor Theme:group_0" />
+          <option name="name" value="lightCodeScheme" />
+          <option name="value" value="_@user_IntelliJ Light" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:Editor Theme:group_0" />
+          <option name="name" value="darkCodeScheme" />
+          <option name="value" value="_@user_Darcula" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:Editor Theme:group_0" />
+          <option name="name" value="highContrastCodeScheme" />
+          <option name="value" value="_@user_High contrast" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="general_settings:Other" />
+          <option name="name" value="checkHighContrast" />
+          <option name="value" value="true" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="macos_settings_hidden" />
+          <option name="name" value="executed" />
+          <option name="value" value="true" />
+        </Entry>
+        <Entry>
+          <option name="groupIdentifier" value="__root__group__" />
+          <option name="name" value="__settings__version__" />
+          <option name="value" value="1.1" />
+        </Entry>
+        <Entry>
           <option name="groupIdentifier" value="__root__group__" />
           <option name="name" value="__settings__version__" />
           <option name="value" value="1.1" />
