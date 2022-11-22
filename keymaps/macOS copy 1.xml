@@ -25,12 +25,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt d" />
     <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
   </action>
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
-  </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
-  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl meta alt f" />
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -41,7 +35,17 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta alt page_up" />
   </action>
+  <action id="TerminalDecreaseFontSize" />
+  <action id="TerminalIncreaseFontSize" />
   <action id="Vcs.UpdateProject" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
