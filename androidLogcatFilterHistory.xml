@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tilt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tilt" />
         <option value="package:mine " />
         <option value="package:mine Tilty" />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:com.pinterest.dev C" />
         <option value="package:com.pinterest.dev Creation inspo" />
         <option value="package:com.pinterest.dev api" />
-        <option value="package:com.pinterest.dev experienc" />
       </list>
     </option>
   </component>
