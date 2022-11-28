@@ -1,0 +1,7 @@
+<templateSet group="AndroidXML">
+  <template name="conpar" value="        app:layout_constraintTop_toTopOf=&quot;parent&quot;&#10;        app:layout_constraintBottom_toBottomOf=&quot;parent&quot;&#10;        app:layout_constraintStart_toStartOf=&quot;parent&quot;&#10;        app:layout_constraintEnd_toEndOf=&quot;parent&quot;" description="Add parent constraints" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
