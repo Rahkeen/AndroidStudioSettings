@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="19041FDEE004SV" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6 Pro" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-19041FDEE004SV-qhOdis._adb-tls-connect._tcp." />
           </Key>
@@ -11,17 +22,6 @@
         <name value="Google Pixel 6 Pro" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="19041FDEE004SV" />
-          </Key>
-        </key>
-        <name value="Google Pixel 6 Pro" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
