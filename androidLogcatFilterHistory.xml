@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine alpha" />
+    <option name="mostRecentlyUsed" value="package:mine glDrawer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine glDrawer" />
         <option value="package:mine alpha" />
         <option value="package:mine gldrawer" />
         <option value="package:mine gldrawer level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine tele" />
         <option value="package:mine api.pinteres" />
         <option value="package:mine auth" />
-        <option value="package:mine api.pinterest" />
       </list>
     </option>
   </component>
