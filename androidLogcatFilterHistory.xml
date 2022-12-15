@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine GlD" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:mine GlD" />
         <option value="package:mine GlDrawer" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine  gldrawer" />
         <option value="package:mine Transitions" />
@@ -22,7 +23,6 @@
         <option value="package:mine Tilty" />
         <option value="package:mine WorkMan" />
         <option value="package:mine Phone" />
-        <option value="package:mine number" />
       </list>
     </option>
   </component>
