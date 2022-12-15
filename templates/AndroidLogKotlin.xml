@@ -1,0 +1,9 @@
+<templateSet group="AndroidLogKotlin">
+  <template name="logme" value="android.util.Log.d(&quot;$identifier$&quot;, &quot;$content$&quot;)" description="Add a quick debug log statement." toReformat="false" toShortenFQNames="true">
+    <variable name="identifier" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
