@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="29291FDH2005YE" />
+          </Key>
+        </key>
+        <name value="Google Pixel 7" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="19041FDEE004SV" />
           </Key>
         </key>

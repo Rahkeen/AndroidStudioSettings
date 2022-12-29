@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Fidget" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Fidget" />
         <option value="package:mine " />
+        <option value="package:mine GlD" />
+        <option value="package:mine GlDrawer" />
+        <option value="package:mine" />
+        <option value="package:mine  gldrawer" />
+        <option value="package:mine Transitions" />
+        <option value="package:mine gldrawe" />
+        <option value="package:mine gldrawer" />
+        <option value="package:mine glDrawer" />
+        <option value="package:mine alpha" />
+        <option value="package:mine gldrawer level:error " />
+        <option value="package:mine gldr" />
+        <option value="package:mine glDr" />
+        <option value="package:mine drawBitmap" />
+        <option value="package:mine Gl" />
+        <option value="package:mine Fidget" />
         <option value="package:mine tilt" />
         <option value="package:mine Tilty" />
-        <option value="package:mine" />
         <option value="package:mine WorkMan" />
         <option value="package:mine Phone" />
-        <option value="package:mine number" />
-        <option value="package:mine tele" />
-        <option value="package:mine api.pinteres" />
-        <option value="package:mine auth" />
-        <option value="package:mine api.pinterest" />
-        <option value="package:mine api" />
-        <option value="package:com.pinterest.*" />
-        <option value=" level:error " />
-        <option value="creation inspo" />
-        <option value="package:com.pinterest.dev " />
-        <option value="package:com.pinterest.dev" />
-        <option value="package:com.pinterest.dev C" />
-        <option value="package:com.pinterest.dev Creation inspo" />
       </list>
     </option>
   </component>
