@@ -11,13 +11,12 @@
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="showOverlays" value="false" />
     <option name="customSidebarHeight" value="20" />
     <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="3c7dff" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-7e95e6e4:17f0b9fea42:-8000" />
-    <option name="version" value="7.13.1" />
+    <option name="version" value="7.14.2" />
   </component>
 </application>
